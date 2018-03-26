@@ -9,6 +9,7 @@
 		var eid = document.getElementById('eid').value;
 		var imgsize = document.getElementById('imgsize').value;
 		
+		
 		if(eid!=0 && imgsize!=0)
 		{
 			if(window.XMLHttpRequest){
